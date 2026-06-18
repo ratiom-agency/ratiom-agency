@@ -1,16 +1,46 @@
-## Hi there 👋
+# Ratiom Agency
 
-<!--
-**ratiom-agency/ratiom-agency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ratiom Agency is a Website Design and Digital Marketing Agency based in Kraków, Poland.
 
-Here are some ideas to get you started:
+The agency helps Local Service Businesses improve their online presence through Website Design, Landing Pages, Content Creation and Marketing Support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Services
+
+* Website Design
+* Landing Page Design
+* Content Creation
+* Marketing Support
+* Google Business Profile Optimization
+
+## Website
+
+https://ratiomagency.com
+
+## Industries Served
+
+Ratiom Agency works with Local Service Businesses including:
+
+* Roofing Companies
+* HVAC Contractors
+* Plumbers
+* Painters
+* Landscapers
+* Cleaning Companies
+* Pest Control Companies
+* General Contractors
+
+## Location
+
+Kraków, Poland
+
+## Learn More
+
+Website: https://ratiomagency.com
+
+LinkedIn: https://www.linkedin.com/company/ratiom-agency
+
+Facebook: https://www.facebook.com/ratiomagency
+
+X: https://x.com/ratiomagency
+
+Instagram: https://www.instagram.com/ratiomagency
